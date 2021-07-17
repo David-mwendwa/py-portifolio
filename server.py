@@ -16,3 +16,8 @@ def about():
 def works():
   return render_template('works.html')
 
+@app.route("/contact.html")
+def contact():
+  return render_template('contact.html')
+
+
