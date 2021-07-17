@@ -1,0 +1,8 @@
+__pycache__
+venv
+Include
+Lib
+Scripts
+env
+.pytest_cache
+.coverage
